@@ -1,0 +1,82 @@
+[21-Aug-2019 08:43:48 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 208
+[21-Aug-2019 10:06:05 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 208
+[21-Aug-2019 15:06:28 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 208
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 1 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 140
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 148
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 2 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 152
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 3 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 154
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 4 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 156
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 5 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 158
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 6 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 160
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 7 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 162
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 8 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 164
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 9 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 166
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 10 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 168
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 11 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 170
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 172
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 13 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 174
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 14 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 176
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 15 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 178
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 16 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 180
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 17 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 182
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 1 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 140
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 148
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 2 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 152
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 3 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 154
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 4 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 156
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 5 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 158
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 6 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 160
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 7 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 162
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 8 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 164
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 9 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 166
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 10 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 168
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 11 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 170
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 172
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 13 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 174
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 14 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 176
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 15 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 178
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 16 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 180
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 17 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 182
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 1 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 140
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 148
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 2 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 152
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 3 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 154
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 4 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 156
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 5 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 158
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 6 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 160
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 7 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 162
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 8 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 164
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 9 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 166
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 10 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 168
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 11 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 170
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 172
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 13 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 174
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 14 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 176
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 15 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 178
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 16 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 180
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined offset: 17 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 182
+[28-Aug-2019 10:30:42 US/Eastern] PHP Notice:  Undefined variable: listanova in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 190
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 14 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 176
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 15 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 178
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 16 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 180
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 17 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 182
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 148
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 5 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 158
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 6 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 160
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 7 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 162
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 8 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 164
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 9 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 166
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 10 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 168
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 11 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 170
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 12 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 172
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 13 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 174
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 14 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 176
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 15 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 178
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 16 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 180
+[28-Aug-2019 10:30:57 US/Eastern] PHP Notice:  Undefined offset: 17 in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 182
+[28-Aug-2019 10:31:03 US/Eastern] PHP Fatal error:  Uncaught You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'update <=2019-08-28 00:00:00' at line 1<br /><br /><pre>SELECT * FROM `psdp_linkstoreps` WHERE update <=2019-08-28 00:00:00</pre>
+  thrown in /home/vionixcl/public_html/store/classes/db/Db.php on line 769
+[28-Aug-2019 10:31:43 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 208
+[28-Aug-2019 10:36:16 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 208
+[29-Aug-2019 14:56:35 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 208
+[29-Aug-2019 14:56:52 US/Eastern] PHP Warning:  Invalid argument supplied for foreach() in /home/vionixcl/public_html/store/modules/linkstoreps/extractor/import.php on line 208

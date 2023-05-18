@@ -1,0 +1,27 @@
+[{shop_url}] 
+
+Hola Administrador,
+
+Gracias por crear una cuenta de cliente en {shop_name}. 
+
+Estos son sus datos de acceso:
+
+Listado de productos descatalogados por el catálogo: {velhos} 		 
+
+Consejos Importantes de Seguridad:
+
+* Mantenga los datos de su cuenta en un lugar seguro.
+
+* No comparta sus datos de acceso con otras personas.
+
+* Cambie su contraseña regularmente.
+
+* Si sospecha que alguien está utilizando ilegalmente su cuenta,
+avísenos inmediatamente.
+
+Ahora puede realizar pedidos en nuestra tienda: {shop_name}
+[{shop_url}] 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,184 @@
+# BEGIN HMWP_RULES
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a5ab596b24/(.*) /wp-content/plugins/post-list-designer/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6ec1269d18/(.*) /wp-content/plugins/01qtranslate-x/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/49b7f2cec6/(.*) /wp-content/plugins/authors-list/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/0c365fa320/(.*) /wp-content/plugins/autoptimize/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d93e7f29ee/(.*) /wp-content/plugins/awesome-weather/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/434b8996f4/(.*) /wp-content/plugins/classic-editor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8516d2654f/(.*) /wp-content/plugins/contact-form-7/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/7e4609f00f/(.*) /wp-content/plugins/cookie-law-info/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8dc12be58d/(.*) /wp-content/plugins/easy-facebook-likebox-premium/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/b301fb0d91/(.*) /wp-content/plugins/elementor-beta/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/f65f29574d/(.*) /wp-content/plugins/elementor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a2fd810db7/(.*) /wp-content/plugins/flowpaper-lite-pdf-flipbook/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/0ea7935edd/(.*) /wp-content/plugins/fsm-custom-featured-image-caption/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/66d54d2ca3/(.*) /wp-content/plugins/ga-google-analytics/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d0f4711431/(.*) /wp-content/plugins/hide-my-wp/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/764187e833/(.*) /wp-content/plugins/horizontal-scrolling-announcements/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/702a03429e/(.*) /wp-content/plugins/ip-location-block/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/cb25b5ae4a/(.*) /wp-content/plugins/issuu-magazine-display/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/95b641d99c/(.*) /wp-content/plugins/issuu-pdf-sync/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/3167997f8d/(.*) /wp-content/plugins/js-composer-qtranslate-x/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/041dc5d622/(.*) /wp-content/plugins/js_composer/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/7391fcb590/(.*) /wp-content/plugins/kia-subtitle/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ebc2d5cd13/(.*) /wp-content/plugins/language-code-selector-mqtranslate/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d6826c3d46/(.*) /wp-content/plugins/languages-frontend-display/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/3419fd5184/(.*) /wp-content/plugins/list-categories/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/dcbb7fbb00/(.*) /wp-content/plugins/list-category-posts/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/3e72102f60/(.*) /wp-content/plugins/login-lockdown/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ea4b7be2f7/(.*) /wp-content/plugins/news-announcement-scroll/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/cc1cff0190/(.*) /wp-content/plugins/onesignal-free-web-push-notifications/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8711c06a6c/(.*) /wp-content/plugins/otgs-installer-plugin/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a2f00f459e/(.*) /wp-content/plugins/parallaxer-lite-parallax-effects-on-images/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/14bbd6fad8/(.*) /wp-content/plugins/pdf-embedder/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/14693a1e6a/(.*) /wp-content/plugins/popup-maker/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8a8428b6a6/(.*) /wp-content/plugins/post-duplicator/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6c5c0a552a/(.*) /wp-content/plugins/post-expirator/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/1bbeafbe7d/(.*) /wp-content/plugins/qtranslate-x/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/85da55d1df/(.*) /wp-content/plugins/sem-author-image/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/cb3345c1fe/(.*) /wp-content/plugins/shortpixel-image-optimiser/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d1709c6ea9/(.*) /wp-content/plugins/smart-slider-3/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/f11c0e72bf/(.*) /wp-content/plugins/the-events-calendar/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/625b94bfb7/(.*) /wp-content/plugins/tinymce-advanced/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/874be847ed/(.*) /wp-content/plugins/uji-countdown/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/bf56e642ca/(.*) /wp-content/plugins/updraftplus/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6522ab7fc0/(.*) /wp-content/plugins/wonderplugin-conditional-display/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/988ebb6a9a/(.*) /wp-content/plugins/woosidebars/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ca1ac21779/(.*) /wp-content/plugins/wordpress-popup/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ce7dabac90/(.*) /wp-content/plugins/wp-forecast/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/e52b95711d/(.*) /wp-content/plugins/wp-post-block/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/1ac47ad5ca/(.*) /wp-content/plugins/wp-show-posts/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/7864f32584/(.*) /wp-content/plugins/wps-hide-login/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/(.*) /wp-content/plugins/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/13c402efbe/design.css$ /wp-content/themes/Newspaper/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/13c402efbe/(.*) /wp-content/themes/Newspaper/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/192572bfde/design.css$ /wp-content/themes/newslay/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/192572bfde/(.*) /wp-content/themes/newslay/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/b2294c9291/design.css$ /wp-content/themes/newsup/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/b2294c9291/(.*) /wp-content/themes/newsup/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/06e4ca46df/design.css$ /wp-content/themes/newsup_/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/06e4ca46df/(.*) /wp-content/themes/newsup_/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/(.*) /wp-content/themes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?storage/(.*) /wp-content/uploads/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/(.*) /wp-content/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?lib/(.*) /wp-includes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?comments/(.*) /wp-comments-post.php$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?writer/(.*) /author/$2 [QSA,L]
+</IfModule>
+
+
+# END HMWP_RULES
+# BEGIN HMWP_VULNERABILITY
+<IfModule mod_headers.c>
+Header always unset x-powered-by
+Header always unset server
+ServerSignature Off
+</IfModule>
+
+<IfModule mod_headers.c>
+Header set Strict-Transport-Security "max-age=63072000"
+Header set Content-Security-Policy "object-src 'none'"
+Header set X-XSS-Protection "1; mode=block"
+Header set X-Content-Type-Options "nosniff"
+</IfModule>
+
+
+
+# END HMWP_VULNERABILITY
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a5ab596b24/(.*) /wp-content/plugins/post-list-designer/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6ec1269d18/(.*) /wp-content/plugins/01qtranslate-x/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/49b7f2cec6/(.*) /wp-content/plugins/authors-list/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/0c365fa320/(.*) /wp-content/plugins/autoptimize/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d93e7f29ee/(.*) /wp-content/plugins/awesome-weather/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/434b8996f4/(.*) /wp-content/plugins/classic-editor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8516d2654f/(.*) /wp-content/plugins/contact-form-7/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/7e4609f00f/(.*) /wp-content/plugins/cookie-law-info/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8dc12be58d/(.*) /wp-content/plugins/easy-facebook-likebox-premium/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/b301fb0d91/(.*) /wp-content/plugins/elementor-beta/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/f65f29574d/(.*) /wp-content/plugins/elementor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a2fd810db7/(.*) /wp-content/plugins/flowpaper-lite-pdf-flipbook/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/0ea7935edd/(.*) /wp-content/plugins/fsm-custom-featured-image-caption/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/66d54d2ca3/(.*) /wp-content/plugins/ga-google-analytics/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d0f4711431/(.*) /wp-content/plugins/hide-my-wp/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/764187e833/(.*) /wp-content/plugins/horizontal-scrolling-announcements/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/702a03429e/(.*) /wp-content/plugins/ip-location-block/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/cb25b5ae4a/(.*) /wp-content/plugins/issuu-magazine-display/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/95b641d99c/(.*) /wp-content/plugins/issuu-pdf-sync/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/3167997f8d/(.*) /wp-content/plugins/js-composer-qtranslate-x/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/041dc5d622/(.*) /wp-content/plugins/js_composer/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/7391fcb590/(.*) /wp-content/plugins/kia-subtitle/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ebc2d5cd13/(.*) /wp-content/plugins/language-code-selector-mqtranslate/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d6826c3d46/(.*) /wp-content/plugins/languages-frontend-display/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/3419fd5184/(.*) /wp-content/plugins/list-categories/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/dcbb7fbb00/(.*) /wp-content/plugins/list-category-posts/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/3e72102f60/(.*) /wp-content/plugins/login-lockdown/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ea4b7be2f7/(.*) /wp-content/plugins/news-announcement-scroll/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/cc1cff0190/(.*) /wp-content/plugins/onesignal-free-web-push-notifications/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8711c06a6c/(.*) /wp-content/plugins/otgs-installer-plugin/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a2f00f459e/(.*) /wp-content/plugins/parallaxer-lite-parallax-effects-on-images/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/14bbd6fad8/(.*) /wp-content/plugins/pdf-embedder/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/14693a1e6a/(.*) /wp-content/plugins/popup-maker/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8a8428b6a6/(.*) /wp-content/plugins/post-duplicator/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6c5c0a552a/(.*) /wp-content/plugins/post-expirator/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/1bbeafbe7d/(.*) /wp-content/plugins/qtranslate-x/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/85da55d1df/(.*) /wp-content/plugins/sem-author-image/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/cb3345c1fe/(.*) /wp-content/plugins/shortpixel-image-optimiser/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d1709c6ea9/(.*) /wp-content/plugins/smart-slider-3/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/f11c0e72bf/(.*) /wp-content/plugins/the-events-calendar/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/625b94bfb7/(.*) /wp-content/plugins/tinymce-advanced/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/874be847ed/(.*) /wp-content/plugins/uji-countdown/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/bf56e642ca/(.*) /wp-content/plugins/updraftplus/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6522ab7fc0/(.*) /wp-content/plugins/wonderplugin-conditional-display/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/988ebb6a9a/(.*) /wp-content/plugins/woosidebars/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ca1ac21779/(.*) /wp-content/plugins/wordpress-popup/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ce7dabac90/(.*) /wp-content/plugins/wp-forecast/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/e52b95711d/(.*) /wp-content/plugins/wp-post-block/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/1ac47ad5ca/(.*) /wp-content/plugins/wp-show-posts/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/7864f32584/(.*) /wp-content/plugins/wps-hide-login/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/(.*) /wp-content/plugins/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/13c402efbe/design.css$ /wp-content/themes/Newspaper/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/13c402efbe/(.*) /wp-content/themes/Newspaper/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/192572bfde/design.css$ /wp-content/themes/newslay/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/192572bfde/(.*) /wp-content/themes/newslay/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/b2294c9291/design.css$ /wp-content/themes/newsup/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/b2294c9291/(.*) /wp-content/themes/newsup/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/06e4ca46df/design.css$ /wp-content/themes/newsup_/style.css [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/06e4ca46df/(.*) /wp-content/themes/newsup_/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/views/(.*) /wp-content/themes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?storage/(.*) /wp-content/uploads/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/(.*) /wp-content/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?lib/(.*) /wp-includes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?comments/(.*) /wp-comments-post.php$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?writer/(.*) /author/$2 [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN ShortPixelWebp
+# The directives (lines) between "BEGIN ShortPixelWebp" and "END ShortPixelWebp" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END ShortPixelWebp
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
